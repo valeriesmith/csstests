@@ -1,0 +1,67 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  background: url("https://newevolutiondesigns.com/images/freebies/city-wallpaper-5.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+.container-fluid {
+  position: relative;
+  min-height: 100%;
+}
+
+.row {
+  min-height: 33%;
+}
+
+.col-sm-4 {
+  min-height: 100%;
+}
+
+/*
+.wrapper {
+  background-color: blue;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+/*  SECTIONS  */
+/*.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}*/
+
+/*  COLUMN SETUP  */
+/*.col {
+  display: block;
+  height: 33%;
+  border: 1px solid white;
+  float:left;
+  margin: 0% 0 0% 0;
+  -webkit-box-sizing: border-box;
+}*/
+/*.col:first-child { margin-left: 0; }*/
+
+/*  GROUPING  */
+/*.group:before,*/
+/*.group:after { content:""; display:table; }*/
+/*.group:after { clear:both;}*/
+/*.group { zoom:1; /* For IE 6/7  }*/
+
+/*  GRID OF THREE  */
+/*.span_3_of_3 { width: 100%; }*/
+/*.span_2_of_3 { width: 66.13%; }*/
+/*.span_1_of_3 { width: 32.26%; }*/
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+/*@media only screen and (max-width: 480px) {
+  .col {  margin: 1% 0 1% 0%; }
+  .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}*/
